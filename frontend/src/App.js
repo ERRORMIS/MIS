@@ -13,7 +13,7 @@ function App() {
       <p className="names-list">Methmi Ranasinghe 20907631</p>
       <p className="names-list"> Milanie Arnolda 20907660</p>
       <p className="names-list">Yasas Abhishek 20909242</p>
-
+      <p className="names-list">Pawan Samarasinghe 20907628</p>
       
       </main>
     </div>
