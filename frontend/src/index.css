@@ -8,13 +8,35 @@ body {
 }
 
 header {
-  background-color: #404040;
+  background-color:  #1613ce;
   padding: 1rem;
 }
 
 header a{
-  color: #ffffff;
+  
+  color: #ebebf1;
   font-weight: bold;
   text-decoration: none;
   
+
+}
+
+.header-1,.header-3{
+  font-size: 50px;
+  text-align: center;
+  color: #1613ce;
+
+}
+
+.header-1{
+  color: yellow;
+}
+
+.names-list{
+  font-size: 25px;
+  text-align: center;
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+
 }
