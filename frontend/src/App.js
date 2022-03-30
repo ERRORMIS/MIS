@@ -11,6 +11,7 @@ function App() {
       <h3 className="header-3">Group Members</h3>
     
       <p className="names-list">Methmi Ranasinghe 20907631</p>
+      <p className="names-list">Pawan Samarasinghe 20907628</p>
       
       </main>
     </div>
