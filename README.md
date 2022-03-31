@@ -1,3 +1,0 @@
-# MIS
-
-Management Information system
